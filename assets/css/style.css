@@ -1,13 +1,14 @@
+/* Universal selector styling: "box-sizing, padding, and margin properties" for all elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* sets the background color of the body of the page to light grey*/
 body {
     background-color: #d9dcd6;
 }
-
+/* sets the size of the padding, preferred font famlies, background color and text color of the header section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* styles the h1 element in header to display as inline element with block propertier and font size 48px */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* sets seo in "Horiseon" in header to be grey */
+/* sets "seo" in "Horiseon" title in h1 to be grey */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* sets properites of navigation bar section located within the header section*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,25 +35,34 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* sets the unordered list in the navigation bar not to have any marker characters */
 header nav ul {
     list-style-type: none;
 }
+
+/* formats the list of links in the navigation section of the header to display horizontally with a margin of 25px between them */
 
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* formats the article element witch contains the bulk of the content of the page in sections */
+article {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* styles the links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* sets the font size of the paragraph element */
 p {
     font-size: 16px;
 }
 
+/* formats and styles the footer */
 footer {
     padding: 30px;
     clear: both;
@@ -81,11 +93,7 @@ footer h2 {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 .benefits {
     margin-right: 20px;
