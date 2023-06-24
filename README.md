@@ -1,4 +1,4 @@
-# Horesion SEO
+# Horiseon SEO
 
 ## Technology Used 
 
