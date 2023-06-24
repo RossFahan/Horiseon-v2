@@ -12,11 +12,12 @@
 
 [Visit the Deployed Site](https://rossfahan.github.io/Horiseon-v2/)
 
-Horiseon is an SEO and digital marketings service aimed at providing services to improve buisnesses online presence, visibility, reputation, and customer acquisition using various strategies and techniques.
+Horiseon is an SEO and digital marketing service aimed at providing services to improve buisnesses online presence, visibility, reputation, and customer acquisition using various strategies and techniques.
 
 In this refactoring project, I took steps to make changesspecifically improve accessibility, search engine optimization of the Horiseon website itself, improved code readability and maintainability using comments and semnatic HTML, and insured code followed a logical structure. These changes a better user experience for all visitors and improves its visibility in search engine rankings, and also makes the code easier to maintain in the future.
 
 
+## Landing Page
 ![Site Langing Page](./assets/images/landing-page.png)
 
 
@@ -86,17 +87,6 @@ header {
 }
 
 ```
-
-## Usage 
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
 
 ## Learning Points 
 
