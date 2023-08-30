@@ -91,7 +91,7 @@ header {
 ## Learning Points 
 
 
-Through this project, I learned about accessibility standards, best practices for Search Engine Optimization, make to make code more readabile and maintainable, and general best practices in web development. This was also a good lesson in being thorough giving attention to detail, as it is very easy to overlook small details. Furthermore, this was a good lesson in quality assurance as I had to make sure the project met all the given acceptance criteria.
+Through this project, I learned about accessibility standards, best practices for Search Engine Optimization, to make code more readabile and maintainable, and general best practices in web development. This was also a good lesson in being thorough in giving attention to detail, as it is very easy to overlook small details. Furthermore, this was a good lesson in quality assurance as I had to make sure the project met all the given acceptance criteria.
 
 I also learned the importance of version control, deploying a website, and making frequent meaningful commits to your repository with descriptive messages.
 
