@@ -1,4 +1,4 @@
-# Horiseon SEO
+e# Horiseon SEO
 
 ## Technology Used 
 
@@ -14,7 +14,7 @@
 
 Horiseon is an SEO and digital marketing service aimed at providing services to improve buisnesses online presence, visibility, reputation, and customer acquisition using various strategies and techniques.
 
-In this refactoring project, I took steps to make changes specifically improve accessibility, search engine optimization of the Horiseon website itself, improved code readability and maintainability using comments and semnatic HTML, and insured code followed a logical structure. These changes a better user experience for all visitors and improves its visibility in search engine rankings, and also makes the code easier to maintain in the future.
+In this refactoring project, I took steps to make changes specifically to improve accessibility, search engine optimization of the Horiseon website itself, improve code readability and maintainability using comments and semnatic HTML, and insured that code followed a logical structure. These changes provide a better user experience for all visitors and improves its visibility in search engine rankings, and also makes the code easier to maintain in the future.
 
 
 ## Landing Page
